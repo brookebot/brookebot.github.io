@@ -14,4 +14,16 @@ Hi, my name is Brooke and this is my website!
 
 - __Reflection on the process you used last week, how can you make the process work better?__ Last week my process was a little scattered- I was a bit confused about how to set up my Pages website (this one) and that took longer than I would have preferred. However, I did like my system of scheduling certain tasks for specific dates and times. For example, I scheduled time to work on finding a database this week on Wednesday at 2:00pm, which was nice! Going forward, I am going to schedule more time for new things though to give myself the extra space to figure it out first.
 
-## Update 09/18/2024
+## Update 9-18-24
+**What I worked on last Week:**
+Last week, I found a suitable API for my project, and figured out how to access and use the data. I also created a project repo, and began importing resources and older projects to reference. 
+
+**What I will work on this week:**
+This week I am working on coding my website and building a basic HTML site and using Flask. I will work on getting the basic functionalities of the website designed and implemented before working on the design, so I will start with the database and upating it with the API data. I am also focusing on adding projects to my github page. 
+
+**Obstacles and Impediments**
+Time constraints are less of an issue this week, but I do have an exam to study for that could dig into that time. 
+
+**How to Improve Workflow**
+I tend to think visually, so I want to create a visual timeline for this project that I can follow as I work through the different steps. I think this will help motivate me to stay on track!
+
